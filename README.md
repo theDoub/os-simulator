@@ -2,8 +2,6 @@
 
 ## -- SCHEDULER --  
 
-**Author:** Đức Tuấn  
-
 ### Changing Functions  
 The following functions in the scheduler were implemented:  
 - `src/queue.c: enqueue(), dequeue()`  
@@ -19,8 +17,6 @@ The following functions in the scheduler were implemented:
 
 
 ## -- MEMORY MANAGEMENT --  
-
-**Author:** Quốc Việt
 
 ### Changing Functions
 
@@ -97,8 +93,6 @@ The following functions in the scheduler were implemented:
 
 
 ### -- SYSCALL --  
-
-**Author:** Anh Tuấn  
 
 #### Changing Functions
 The following syscall was implemented:  
