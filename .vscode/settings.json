@@ -1,0 +1,17 @@
+{
+  "cSpell.words": [
+    "biến",
+    "dùng",
+    "hiện",
+    "rgnode",
+    "symrgtbl",
+    "thái",
+    "tiên",
+    "trạng",
+    "vmrg"
+  ],
+  "files.associations": {
+    "sched.h": "c",
+    "syscall.h": "c"
+  }
+}
